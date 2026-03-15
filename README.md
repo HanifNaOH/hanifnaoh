@@ -56,8 +56,8 @@ Worked on **gameplay systems, UI prototypes**, and integrated **Epic Online Serv
 ## Education
 
 **Universitas Bina Nusantara**  
-Computer Science — Game Application and Technology  
-2023 – 2027 (expected)
+Computer Science - Game Application and Technology  
+2023 - 2027 (expected)
 
 ## Contact
 - Portfolio: https://hanifnaoh.com  
